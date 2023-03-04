@@ -1,0 +1,47 @@
+.navigationbar{
+    padding-bottom: 2rem;
+    background-color: salmon;
+
+}
+.heading{
+    float: right;
+    padding-right: 170px;
+}
+.heading-left{
+    float: left;
+    position: absolute;
+    top: 33px;
+}
+
+.about{
+    background-color: aqua;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    padding-top: 62px;
+    text-align: center;
+
+}
+
+.intro-img{
+    text-align: right;
+}
+#profile-image{
+    width: 18rem;
+    /* text-align: right; */
+    border-radius: 50%;
+}
+.footer-icon{
+    text-align: right;
+}
+
+#introduction-bg{
+    background-color: rgb(180, 129, 129);
+}
+.row{
+    margin-right: 0px !important;
+
+}
+.footer{
+    background-color: #94776B;
+}
